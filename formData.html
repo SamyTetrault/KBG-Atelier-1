@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+        input {
+            margin: 10px;
+            height: 28px;
+        }
+    </style>
+</head>
+
+<body>
+    <form action="http://localhost:5000/api/contacts" method="POST">
+        <input type="text" placeholder="Firstname" name="FirstName" required> <br>
+        <input type="text" placeholder="Lastname" name="LastName" required><br>
+        <input type="email" placeholder="Email" name="Email" required><br>
+        <input type="submit" value="Soumettre">
+    </form>
+</body>
+
+</html>

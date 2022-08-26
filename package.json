@@ -1,0 +1,14 @@
+{
+  "name": "kbg-atelier-1",
+  "version": "1.0.0",
+  "description": "Atelier formatif",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samy Tetrault",
+  "license": "ISC",
+  "dependencies": {
+    "query-string": "^7.1.1"
+  }
+}
