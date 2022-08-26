@@ -4,7 +4,8 @@
   "description": "Atelier formatif",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "Start": "node server.js"
   },
   "author": "Samy Tetrault",
   "license": "ISC",
